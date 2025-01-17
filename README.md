@@ -1,2 +1,13 @@
-# TASK-1
-I created the TO-DO LIST app .which stores the tasks and mark as complete then delete the tasks.
+# TO - DO LIST APP
+
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: KAVIN V
+
+*INTERN ID*: CT08FTC
+
+*DOMAIN*:  ANDROID APP DEVELOPMENT
+
+*DURATION*: 4 WEEKS
+
+*MENTOR*: NEELA SANTHOSH KUMAR
